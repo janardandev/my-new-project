@@ -19,7 +19,7 @@ The basic program of python help to create calculator
 ## How is it used?
 
 You can add your data in this program and calculate the result
-![image of me](![Screenshot 2020-11-23 at 14 25 02](https://user-images.githubusercontent.com/74779570/99967132-b2529400-2d97-11eb-9cc1-9399c664bc7b.png))
+![image of me](![Screenshot 2020-11-23 at 14 25 02](https://github.com/janardandev/my-new-project/blob/main/calc.jpg))
 
 
 
